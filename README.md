@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amandawallins
 - 👀 I’m interested in biotechnology, bioinformatics and coding
-- 🌱 I’m currently learning basic coding! 
 
 <!---
 amandawallins/amandawallins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
